@@ -1,44 +1,48 @@
-Hi 👋 My name is Dolgopolov Vasiliy
-===================================
+<h2 align="left">Hi 👋! My name is Vasiliy and I'm a C++ programmer, from Russia</h2>
 
-Student
--------
+###
 
-I love c++ and have been doing it for a long time, but I haven't had production in my life yet, Student of the Institute of Military Mechanics, according to the program <<Software Engineering>>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=olokreaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olokreaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-* 🌍  I'm based in Russia, Saint-Peterburg
-* 🖥️  See my portfolio at [bio.oloproxx.space](http://bio.oloproxx.space)
-* ✉️  You can contact me at [olokreZ2005@ya.ru](mailto:olokreZ2005@ya.ru)
-* 🧠  I'm learning creating Ai models in c++ and everything that can be related to vulkan
-* 🤝  I'm open to collaborating on Not yet
+###
 
-<a href="https://www.github.com/olokreaz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/olokreaz?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
+<img align="right" height="150" src="https://media.tenor.com/4esuAPdPS-IAAAAC/mushoku-tensei-eris.gif"  />
 
-### Skills
+###
 
+<div align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge" height="30" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="30" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="30" alt="aarch64 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
+</div>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-</p>
+###
 
+<div align="left">
+  <a href="https://discord.com/users/414711530899374090" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/414711530899374090" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/olokreaz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/19953036/olokrez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/olokreaz"><img src="https://github-readme-stats.vercel.app/api?username=olokreaz&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ec4899&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="olokreaz's GitHub stats" /></a>
-
-<a href="http://www.github.com/olokreaz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=olokreaz&stroke=ec4899&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ec4899&currStreakLabel=ec4899&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
-
-<a href="http://www.github.com/olokreaz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=olokreaz&bg_color=1c1917&color=ec4899&line=ec4899&point=ec4899&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/olokreaz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olokreaz&langs_count=10&title_color=ec4899&text_color=ec4899&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/olokreaz/oloproxx-game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=olokreaz&repo=oloproxx-game&title_color=ec4899&text_color=ec4899&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+###
